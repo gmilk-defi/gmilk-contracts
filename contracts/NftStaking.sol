@@ -759,3 +759,4 @@ contract NftStaking is ReentrancyGuard, Pausable, IERC721Receiver {
         return this.onERC721Received.selector;
     }
 }
+
