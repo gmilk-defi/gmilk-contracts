@@ -2,10 +2,6 @@
  *Submitted for verification at Etherscan.io on 2022-03-17
 */
 
-/**
- *Submitted for verification at Etherscan.io on 2022-03-08
-*/
-
 // SPDX-License-Identifier: MIT
 
 // File: contracts/libs/Address.sol
